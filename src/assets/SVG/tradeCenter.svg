@@ -1,0 +1,190 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&display=swap" rel="stylesheet">
+
+<svg id="cho" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3047.3 2006.1">
+    <defs>
+        <style>
+            .cls-1 {
+                fill: #37517a;
+            }
+
+            .cls-2 {
+                fill: #d1af84;
+            }
+
+            .cls-11,
+            .cls-13,
+            .cls-20,
+            .cls-25,
+            .cls-3 {
+                font-size: 24px;
+                fill: #0a1c3d;
+                font-family: Montserrat-Regular, Montserrat;
+            }
+
+            .cls-12,
+            .cls-3 {
+                letter-spacing: -0.05em;
+            }
+
+            .cls-4 {
+                letter-spacing: -0.06em;
+            }
+
+            .cls-5 {
+                letter-spacing: -0.06em;
+            }
+
+            .cls-6 {
+                letter-spacing: -0.06em;
+            }
+
+            .cls-7 {
+                letter-spacing: -0.05em;
+            }
+
+            .cls-8 {
+                letter-spacing: -0.06em;
+            }
+
+            .cls-9 {
+                letter-spacing: -0.07em;
+            }
+
+            .cls-10 {
+                letter-spacing: -0.05em;
+            }
+
+            .cls-11 {
+                letter-spacing: -0.05em;
+            }
+
+            .cls-13 {
+                letter-spacing: -0.05em;
+            }
+
+            .cls-14 {
+                letter-spacing: -0.02em;
+            }
+
+            .cls-15 {
+                letter-spacing: -0.03em;
+            }
+
+            .cls-16,
+            .cls-25 {
+                letter-spacing: -0.02em;
+            }
+
+            .cls-17 {
+                letter-spacing: -0.03em;
+            }
+
+            .cls-18 {
+                letter-spacing: -0.04em;
+            }
+
+            .cls-19,
+            .cls-20 {
+                letter-spacing: -0.04em;
+            }
+
+            .cls-21 {
+                letter-spacing: -0.02em;
+            }
+
+            .cls-22 {
+                letter-spacing: -0.03em;
+            }
+
+            .cls-23 {
+                letter-spacing: -0.04em;
+            }
+
+            .cls-24 {
+                letter-spacing: -0.04em;
+            }
+
+            .cls-26 {
+                letter-spacing: -0.03em;
+            }
+
+            .cls-27 {
+                letter-spacing: -0.03em;
+            }
+        </style>
+    </defs>
+    <title>tradeCenter</title>
+    <path class="cls-1"
+        d="M1657.4,497.4l-10.6,2v19.7l-16.7-4.6-9.2,3.4v38.7h45.3V498.9Zm-33.2,23h.3l2-.4h.1v3.2h-.1l-2,.4h-.3Zm.1,7.2h.2l2-.4h.2v3.2h-.2l-1.9.5h-.3Zm0,7.1h.3l2-.4h.1v3.1h-.1l-2,.5h-.3Zm0,7.1h.4l1.9-.4h.1v3.1h0l-2,.4h-.4Zm2.4,9.8-2,.4h-.3v-3.2h.3l2-.5h.1v3.2Zm5.9-32.5,12.5,3.2v3.2l-12.5-3.1Zm12.5,34.2-12.5-.6v-3.2l12.5.7Zm0-7-12.5-1.4v-3.3l12.5,1.5Zm0-6.8-12.5-1.8v-3.3l12.5,1.9Zm.5-6.9h-.5l-12.5-2.4v-3.2l12.5,2.4h.5Zm8.3,14.5h-3.1V544h3.1Zm0-7h-3.1V537h3.1Zm0-7.1h-3.1v-3.1h3.1Zm0-7h-3.1v-3.1h3.1Zm0-7h-3.1v-3.2h3.1Zm0-7.1h-3.1v-3.1h3.1Z" />
+    <rect class="cls-2" x="702.2" y="1170" width="303.7" height="79.17" />
+    <polygon class="cls-2" points="1066 1209.6 1005.9 1218.7 1005.9 1200.4 1066 1209.6" /><text class="cls-3"
+        transform="translate(803.5 1217.6)">N<tspan class="cls-4" x="18.3" y="0">o</tspan>
+        <tspan class="cls-5" x="31.8" y="0">w</tspan>
+        <tspan class="cls-6" x="51.5" y="0">z</tspan>
+        <tspan x="62.3" y="0">o</tspan>
+        <tspan class="cls-7" x="76.2" y="0">n</tspan>
+        <tspan x="91.2" y="0">e</tspan>
+    </text>
+    <path class="cls-1"
+        d="M1113.5,1178.1l-10.5,2v19.6l-16.7-4.6-9.3,3.4v38.7h45.4v-57.6Zm-33.1,23h.2l2-.5h.2v3.2h-.2l-1.9.4h-.3Zm0,7.1h.3l2-.5h.1v3.2h-.1l-2,.4h-.3Zm.1,7.2h.3l1.9-.4h.1v3.2h-.1l-2,.5h-.3Zm0,7.1h.3l2-.4h.1v3.1h-.1l-2,.5h-.3Zm2.4,9.7-2,.5h-.4v-3.2h.4l1.9-.4h.1v3.1Zm5.9-32.4,12.4,3.2v3.2l-12.4-3.1Zm12.4,34.2-12.4-.6v-3.3l12.4.7Zm0-7-12.4-1.5v-3.2l12.4,1.5Zm0-6.8-12.4-1.8v-3.3l12.4,1.9Zm.6-6.9h-.6l-12.4-2.4v-3.3l12.4,2.5h.6Zm8.2,14.5h-3.1v-3.1h3.1Zm0-7h-3.1v-3.2h3.1Zm0-7.1h-3.1v-3.1h3.1Zm0-7h-3.1v-3.1h3.1Zm0-7.1h-3.1v-3.1h3.1Zm0-7h-3.1v-3.1h3.1Z" />
+    <path class="cls-1"
+        d="M1779.1,601.3l-10.6,2V623l-16.7-4.6-9.2,3.4v38.7h45.3V602.8Zm-33.2,23.1h.3l2-.4h.1V627h-.1l-2,.5h-.3Zm.1,7.1h.2l2-.4h.1v3.1h-.2l-1.9.4h-.3Zm0,7.1h.3l2-.5h.1v3.1h-.1l-2,.4h-.3Zm0,7.1h.4l1.9-.5h.1v3.2h0l-2,.4h-.4Zm2.4,9.8-2,.4h-.3v-3.1h.3l2-.4h.1v3.2Zm5.9-32.4,12.5,3.1v3.2l-12.5-3.1Zm12.5,34.2-12.5-.7v-3.2l12.5.7Zm0-7.1-12.5-1.4v-3.3l12.5,1.5Zm0-6.8-12.5-1.8v-3.2l12.5,1.8Zm.5-6.9h-.5l-12.5-2.4v-3.2l12.5,2.5h.5Zm8.3,14.5h-3.1v-3.1h3.1Zm0-7h-3.1v-3.1h3.1Zm0-7h-3.1v-3.2h3.1Zm0-7.1h-3.1v-3.1h3.1Zm0-7h-3.1v-3.1h3.1Zm0-7h-3.1v-3.2h3.1Z" />
+    <rect class="cls-2" x="1311.4" y="817.8" width="303.7" height="79.17" />
+    <polygon class="cls-2" points="1675.2 857.4 1615.1 866.5 1615.1 848.2 1675.2 857.4" /><text class="cls-3"
+        transform="translate(1413.7 854.9)">Ben Thanh<tspan x="21.8" y="30">Ma</tspan>
+        <tspan class="cls-8" x="56.4" y="30">r</tspan>
+        <tspan class="cls-9" x="64.7" y="30">k</tspan>
+        <tspan class="cls-10" x="77.4" y="30">et</tspan>
+    </text>
+    <path class="cls-1"
+        d="M1725.9,858.8c-.3-.4-14.5-6.3-14.7-6.3V838.9c0-.1,0-.1.1-.1h2v-1.4h-2.1v-3.5h3.2a.1.1,0,0,0,.1-.1c.1-.3-.1-.4-.3-.5l-1.1-.4-1.9-.9-6.9-3.3v-8H1703v8l-7.1,3.3-2.9,1.3c-.2.1-.4.2-.4.4s.3.2.5.2h2.8v3.5H1694v1.4h1.9v13.7h0l-14.5,6.2c-.2.1-.6.2-.4.5s.5.2.7,0l1.1-.5v14.6c0,.9,0,.9,1,.9h39.6c1,0,1,0,1.1-1.1V858.8l1.1.5c.2.1.5.2.7-.1S1726.1,858.9,1725.9,858.8Z" />
+    <path class="cls-1"
+        d="M1435.9,1119.2c-.4-.3-14.5-6.2-14.7-6.2v-13.7h2v-1.3h-2v-3.6h3.3c.1-.2-.2-.3-.3-.4l-1.2-.5-1.8-.8-6.9-3.3v-8.1h-1.4v8.1l-7,3.2-3,1.4c-.1.1-.3.2-.3.4s.3.1.5.1a26,26,0,0,0,2.8,0v3.6H1404v1.3h1.9V1113h0c-.2,0-13.1,5.5-14.5,6.2s-.6.2-.4.5.5.1.7,0l1.1-.5v14.6c0,.9,0,.9.9.9h39.7c1,0,1,0,1.1-1v-14.4l1.1.5c.2.1.5.1.6-.1S1436.1,1119.4,1435.9,1119.2Z" />
+    <rect class="cls-2" x="1504.8" y="1072.8" width="303.7" height="79.17" />
+    <polygon class="cls-2" points="1444.8 1109.2 1504.8 1118.4 1504.8 1100.1 1444.8 1109.2" /><text class="cls-11"
+        transform="translate(1598.3 1108.5)">Thai Binh<tspan class="cls-12">
+            <tspan x="12.9" y="30">Ma</tspan>
+            <tspan class="cls-8" x="47.5" y="30">r</tspan>
+            <tspan class="cls-9" x="55.8" y="30">k</tspan>
+            <tspan class="cls-10" x="68.5" y="30">et</tspan>
+        </tspan></text>
+    <rect class="cls-2" x="1858.2" y="763.3" width="303.7" height="79.17" />
+    <polygon class="cls-2" points="1798.1 799.7 1858.2 808.8 1858.2 790.6 1798.1 799.7" /><text class="cls-13"
+        transform="translate(1932.3 801)">T<tspan class="cls-14" x="12.6" y="0">a</tspan>
+        <tspan class="cls-15" x="26.3" y="0">k</tspan>
+        <tspan class="cls-16" x="40" y="0">ashim</tspan>
+        <tspan class="cls-17" x="111.6" y="0">a</tspan>
+        <tspan class="cls-18" x="125.1" y="0">y</tspan>
+        <tspan class="cls-16" x="137.2" y="0">a</tspan>
+        <tspan class="cls-19">
+            <tspan x="25.7" y="30">V</tspan>
+            <tspan class="cls-14" x="41.5" y="30">ietnam</tspan>
+        </tspan>
+    </text>
+    <rect class="cls-2" x="1852.2" y="594.3" width="303.7" height="79.17" />
+    <polygon class="cls-2" points="1792.1 630.7 1852.2 639.8 1852.2 621.5 1792.1 630.7" /><text class="cls-20"
+        transform="translate(1916.9 646.4)">V<tspan class="cls-14" x="15.8" y="0">i</tspan>
+        <tspan class="cls-21" x="21.8" y="0">n</tspan>
+        <tspan class="cls-22" x="37.6" y="0">c</tspan>
+        <tspan class="cls-16" x="50.4" y="0">om </tspan>
+        <tspan class="cls-23" x="95.8" y="0">C</tspan>
+        <tspan class="cls-16" x="112" y="0">en</tspan>
+        <tspan class="cls-24" x="141.8" y="0">t</tspan>
+        <tspan class="cls-16" x="150.6" y="0">er</tspan>
+    </text>
+    <rect class="cls-2" x="1239.3" y="493" width="303.7" height="79.17" />
+    <polygon class="cls-2" points="1603 532.6 1543 541.7 1543 523.5 1603 532.6" /><text class="cls-25"
+        transform="translate(1295.7 541.6)">
+        <tspan class="cls-26" x="5.8" y="0">P</tspan>
+        <tspan class="cls-14" x="22.2" y="0">a</tspan>
+        <tspan class="cls-27" x="35.9" y="0">r</tspan>
+        <tspan class="cls-18" x="44.8" y="0">k</tspan>
+        <tspan x="58.4" y="0">son Plaza</tspan>
+    </text>
+    <path class="cls-1"
+        d="M1777.5,771.4l-10.5,2v19.7l-16.7-4.7-9.3,3.5v38.7h45.4V772.9Zm-33.1,23h.2l2-.5h.2v3.2h-.2l-1.9.4h-.3Zm0,7.2h.3l2-.4h.1v3.2h-.1l-2,.5h-.3Zm0,7.1h.4l1.9-.4h.1v3.1h-.1l-2,.5h-.3Zm.1,7.1h.3l2-.4h.1v3.1h-.1l-2,.4h-.3Zm2.4,9.8-2,.4h-.4v-3.2h.4l1.9-.5h.1v3.1Zm5.9-32.5,12.4,3.2v3.2l-12.4-3.1Zm12.4,34.2-12.4-.6v-3.2l12.4.6Zm0-7-12.4-1.4v-3.3l12.4,1.5Zm0-6.8-12.4-1.8v-3.3l12.4,1.9Zm.6-6.9h-.6l-12.4-2.4v-3.2l12.4,2.4h.6Zm8.2,14.5h-3.1V818h3.1Zm0-7h-3.1v-3.2h3.1Zm0-7.1h-3.1v-3.1h3.1Zm0-7h-3.1v-3.1h3.1Zm0-7h-3.1v-3.2h3.1Zm0-7.1h-3.1v-3.1h3.1Z" />
+</svg>

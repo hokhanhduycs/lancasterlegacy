@@ -1,0 +1,184 @@
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@latest/css/materialdesignicons.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100&display=swap" rel="stylesheet">
+
+<svg id="giaitri" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 3047.3 2006.1">
+    <defs>
+        <style>
+            .cls-1,
+            .cls-7 {
+                fill: none;
+            }
+
+            .cls-2 {
+                fill: #d1af84;
+            }
+
+            .cls-11,
+            .cls-16,
+            .cls-3 {
+                font-size: 24px;
+                fill: #0a1c3d;
+                font-family: Montserrat-Regular, Montserrat;
+            }
+
+            .cls-3 {
+                letter-spacing: -0.03em;
+            }
+
+            .cls-4 {
+                letter-spacing: -0.05em;
+            }
+
+            .cls-5 {
+                fill: #37517a;
+            }
+
+            .cls-6 {
+                clip-path: url(#clip-path);
+            }
+
+            .cls-7 {
+                stroke: #0e1d40;
+                stroke-linecap: round;
+                stroke-linejoin: round;
+                stroke-width: 1.05px;
+            }
+
+            .cls-8 {
+                clip-path: url(#clip-path-2);
+            }
+
+            .cls-9 {
+                clip-path: url(#clip-path-3);
+            }
+
+            .cls-10 {
+                clip-path: url(#clip-path-4);
+            }
+
+            .cls-11,
+            .cls-14 {
+                letter-spacing: -0.05em;
+            }
+
+            .cls-12 {
+                letter-spacing: -0.07em;
+            }
+
+            .cls-13 {
+                letter-spacing: -0.06em;
+            }
+
+            .cls-15 {
+                letter-spacing: -0.06em;
+            }
+
+            .cls-16 {
+                letter-spacing: -0.08em;
+            }
+
+            .cls-17 {
+                letter-spacing: -0.05em;
+            }
+
+            .cls-18 {
+                letter-spacing: -0.06em;
+            }
+
+            .cls-19 {
+                letter-spacing: -0.06em;
+            }
+        </style>
+        <clipPath id="clip-path">
+            <rect class="cls-1" x="1380.2" y="1050.1" width="65.2" height="65.19" />
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <rect class="cls-1" x="1411.1" y="1148.6" width="65.2" height="65.19" />
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <rect class="cls-1" x="1385.1" y="816" width="65.2" height="65.19" />
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <rect class="cls-1" x="1776.1" y="701.7" width="65.2" height="65.19" />
+        </clipPath>
+    </defs>
+    <title>entertainment</title>
+    <rect class="cls-2" x="1542.3" y="1141.6" width="303.7" height="79.17" />
+    <polygon class="cls-2" points="1482.2 1178 1542.3 1187.1 1542.3 1168.9 1482.2 1178" /><text class="cls-3"
+        transform="translate(1646.4 1190.5) rotate(2.4)">Bui <tspan class="cls-4" x="44.1" y="0">V</tspan>
+        <tspan x="59.7" y="0">ien</tspan>
+    </text>
+    <path class="cls-5" d="M1443.7,1082.7a30.9,30.9,0,1,1-30.9-30.8,30.9,30.9,0,0,1,30.9,30.8" />
+    <polygon class="cls-5"
+        points="1381 1086.3 1385.7 1097.5 1391.7 1105.3 1397.8 1109.7 1397.8 1102.9 1393.8 1093.2 1388.8 1086.8 1382 1084.6 1381 1086.3" />
+    <polygon class="cls-5"
+        points="1417.7 1068.9 1419.9 1078.6 1424.5 1083.5 1432.3 1086.7 1443.7 1088.2 1443.4 1078.1 1439.4 1066.9 1431.4 1059.3 1421.5 1053.8 1417.7 1068.9" />
+    <g class="cls-6">
+        <path class="cls-7"
+            d="M1400.9,1054.3s-11.7,40.9,27,55.4m15.5-22.3s-37.9,4.1-21.6-34.2m-37.6,31.4c11.6,2.1,15,25.9,15,25.9m-10.4-8.4c2-26.3,52.3-31.7,52.3-31.7m2.6,12.3a30.9,30.9,0,1,1-30.9-30.8A30.9,30.9,0,0,1,1443.7,1082.7Z" />
+    </g>
+    <path class="cls-5" d="M1474.6,1181.2a30.9,30.9,0,1,1-30.9-30.9,30.9,30.9,0,0,1,30.9,30.9" />
+    <polygon class="cls-5"
+        points="1411.9 1184.7 1416.6 1196 1422.6 1203.7 1428.7 1208.2 1428.7 1201.4 1424.7 1191.7 1419.7 1185.3 1412.9 1183.1 1411.9 1184.7" />
+    <polygon class="cls-5"
+        points="1448.6 1167.4 1450.8 1177.1 1455.4 1182 1463.1 1185.1 1474.6 1186.6 1474.3 1176.5 1470.2 1165.4 1462.2 1157.7 1452.4 1152.2 1448.6 1167.4" />
+    <g class="cls-8">
+        <path class="cls-7"
+            d="M1431.8,1152.7s-11.8,40.9,27,55.5m15.4-22.3s-37.8,4-21.5-34.3m-37.6,31.5c11.6,2.1,15,25.8,15,25.8m-10.4-8.3c2-26.3,52.3-31.8,52.3-31.8m2.6,12.4a30.9,30.9,0,1,1-30.9-30.9A30.9,30.9,0,0,1,1474.6,1181.2Z" />
+    </g>
+    <path class="cls-5" d="M1448.6,848.6a30.9,30.9,0,1,1-30.9-30.9,30.9,30.9,0,0,1,30.9,30.9" />
+    <polygon class="cls-5"
+        points="1385.9 852.1 1390.6 863.4 1396.6 871.1 1402.7 875.5 1402.7 868.8 1398.7 859.1 1393.7 852.7 1386.9 850.5 1385.9 852.1" />
+    <polygon class="cls-5"
+        points="1422.6 834.7 1424.7 844.5 1429.4 849.3 1437.1 852.5 1448.6 854 1448.2 843.9 1444.2 832.7 1436.2 825.1 1426.4 819.6 1422.6 834.7" />
+    <g class="cls-9">
+        <path class="cls-7"
+            d="M1405.8,820.1s-11.8,40.9,27,55.4m15.4-22.3s-37.8,4.1-21.5-34.2m-37.6,31.5c11.6,2.1,15,25.8,15,25.8m-10.4-8.3c2-26.3,52.3-31.8,52.3-31.8m2.6,12.4a30.9,30.9,0,1,1-30.9-30.9A30.9,30.9,0,0,1,1448.6,848.6Z" />
+    </g>
+    <path class="cls-5" d="M1839.5,734.3a30.9,30.9,0,1,1-30.8-30.9,30.9,30.9,0,0,1,30.8,30.9" />
+    <polygon class="cls-5"
+        points="1776.8 737.8 1781.6 749.1 1787.5 756.8 1793.6 761.3 1793.6 754.5 1789.6 744.8 1784.7 738.4 1777.8 736.2 1776.8 737.8" />
+    <polygon class="cls-5"
+        points="1813.5 720.5 1815.7 730.2 1820.3 735 1828.1 738.2 1839.5 739.7 1839.2 729.6 1835.2 718.4 1827.2 710.8 1817.4 705.3 1813.5 720.5" />
+    <g class="cls-10">
+        <path class="cls-7"
+            d="M1796.7,705.8s-11.7,40.9,27,55.4m15.5-22.3s-37.9,4.1-21.6-34.2M1780,736.2c11.6,2.1,15,25.8,15,25.8m-10.4-8.3c2-26.3,52.3-31.8,52.3-31.8m2.6,12.4a30.9,30.9,0,1,1-30.8-30.9A30.9,30.9,0,0,1,1839.5,734.3Z" />
+    </g>
+    <rect class="cls-2" x="1404.7" y="690.4" width="303.7" height="79.17" />
+    <polygon class="cls-2" points="1768.5 730 1708.4 739.1 1708.4 720.9 1768.5 730" /><text class="cls-11"
+        transform="translate(1486.9 726.7)">
+        <tspan xml:space="preserve"> Ngu</tspan>
+        <tspan class="cls-12" x="53.6" y="0">y</tspan>
+        <tspan x="65.1" y="0">en Hue </tspan>
+        <tspan class="cls-13">
+            <tspan x="-19.1" y="30">P</tspan>
+            <tspan class="cls-14" x="-3.4" y="30">edest</tspan>
+            <tspan class="cls-15" x="57.3" y="30">r</tspan>
+            <tspan class="cls-14" x="65.6" y="30">ian St</tspan>
+            <tspan x="126" y="30">r</tspan>
+            <tspan class="cls-14" x="134.1" y="30">eet</tspan>
+        </tspan>
+    </text>
+    <rect class="cls-2" x="1005.8" y="804.4" width="303.7" height="79.17" />
+    <polygon class="cls-2" points="1369.6 843.9 1309.5 853.1 1309.5 834.8 1369.6 843.9" /><text class="cls-16"
+        transform="translate(1111.8 838) rotate(0.9)">T<tspan class="cls-17" x="11.9" y="0">a</tspan>
+        <tspan class="cls-14" x="24.9" y="0">o Dan</tspan>
+        <tspan class="cls-18">
+            <tspan x="20.2" y="30">P</tspan>
+            <tspan class="cls-14" x="35.9" y="30">a</tspan>
+            <tspan class="cls-19" x="48.8" y="30">r</tspan>
+            <tspan class="cls-14" x="57" y="30">k</tspan>
+        </tspan>
+    </text>
+    <rect class="cls-2" x="1515.4" y="1042.9" width="303.7" height="79.17" />
+    <polygon class="cls-2" points="1455.3 1079.3 1515.4 1088.4 1515.4 1070.2 1455.3 1079.3" /><text class="cls-11"
+        transform="translate(1609.8 1092.3) rotate(-0.5)">23/9 <tspan class="cls-18" x="50.1" y="0">P</tspan>
+        <tspan x="65.8" y="0">a</tspan>
+        <tspan class="cls-19" x="78.7" y="0">r</tspan>
+        <tspan x="87" y="0">k</tspan>
+    </text>
+</svg>
